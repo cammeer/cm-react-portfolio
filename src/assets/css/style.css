@@ -1,0 +1,13 @@
+.hero {
+    background: white;
+    color: black;
+    padding: 2px 0 20px;
+    border: none;
+    margin: none;
+  }
+
+  .title {
+    display: block;
+    text-align: left;
+  }
+  

@@ -1,13 +1,14 @@
+import React from 'react'
+import Header from './components/Header'
+// import Footer from './components/Footer'
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
+    <div>
+      <Header />
+      {/* <Footer /> */}
     </div>
   )
 }
