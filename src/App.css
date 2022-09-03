@@ -1,4 +1,37 @@
-.App {
+/* header */
+
+.hero {
+  background: white;
+  color: black;
+  padding: 2px 0 20px;
+  border: 1px red;
+  margin: none;
+}
+
+.title {
+  display: block;
+  text-align: left;
+  margin: 5px;
+  padding: 5px;
+}
+
+/* footer styles */
+
+.footer { 
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  border: 1px red; 
+} 
+
+.icon {
+  padding: 20px;
+  height: 10%;
+}
+
+/* react styles */
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +68,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

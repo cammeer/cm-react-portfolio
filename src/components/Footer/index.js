@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../assets/css/style.css'
+// import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function Footer() {
