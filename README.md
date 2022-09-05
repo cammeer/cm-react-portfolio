@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Caren's React Portfolio
+# My React Portfolio
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 This single page application (SPA) was built with React, and is an upgrade from my current live HTML/CSS portfolio. However, this site is still under construction. Check back soon!
 
-## Usage :notes:
+## Usage :computer:
 
 When you arrive at the [portfolio page](https://cammeer.github.io/cm-react-portfolio/), you can:
 
@@ -25,7 +25,7 @@ When you arrive at the [portfolio page](https://cammeer.github.io/cm-react-portf
 - Use the contact form to send me a message
 - View a summary of my experience as well as download my resume
 
-![Portfolio Screenshot](./portfolio_main.png)
+![Portfolio Screenshot](src/assets/images/portfolio_main.png)
 
 ## Launch :rocket:
 
