@@ -1,5 +1,4 @@
 import React from 'react'
-// import './App.css'
 
 export default function Header() {
   return (
@@ -14,7 +13,7 @@ export default function Header() {
         className="title"
         style={{ fontSize: '20px', fontFamily: 'monospace' }}
       >
-        Sr. Technical Writer and Jr. Developer
+        Sr. Technical Writer / Jr. Developer
       </p>
     </div>
   )
